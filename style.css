@@ -5,6 +5,12 @@
     box-sizing: border-box;
 }
 
+body{
+
+   min-width: 1220px;
+   
+}
+
 a{
     text-decoration: none;
     color: rgb(56, 109, 221);
@@ -14,6 +20,7 @@ a{
 
  .heading{
    font-size: 40px;
+   padding-bottom: 15px;
  }
 
  .details{
@@ -103,7 +110,8 @@ a{
 .margin-b{
    margin-right: 10px;
    color: black;
-   font-weight: 600;
+   font-weight: 700;
+   font-size: 0.99rem;
 }
 
 
